@@ -1,8 +1,13 @@
 # Tensorflow
 Nvidia Ekran Kartı bulunan bilgisayara GPU destekli Tensorflow kurulumu
 
-(Yakında)
+(Yakında detaylı anlatım gelecek)
 
 Örnek:
 
-{% include code_block.html code="pip install tensorflow" %}
+## TensorFlow Kurulumu
+
+Aşağıdaki komutu kullanarak TensorFlow'u kurabilirsiniz:
+
+```bash
+pip install tensorflow
