@@ -42,12 +42,12 @@ pip install --upgrade pip
 
 2. GPU destekli TensorFlow kurulumunu başlatmak için:
 
-> **İpucu**: Zsh terminalinde `tensorflow[and-cuda]` ifadesini tırnak içine almanız gerekmektedir.
 
-**bash:** 
 ```bash
 pip install tensorflow[and-cuda]
 ```
+> **İpucu**: Zsh terminalinde `tensorflow[and-cuda]` ifadesini tırnak içine almanız gerekmektedir.
+
 **zsh:**
 ```zsh
 pip install "tensorflow[and-cuda]"
