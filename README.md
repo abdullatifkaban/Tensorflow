@@ -44,8 +44,13 @@ pip install --upgrade pip
 
 > **İpucu**: Zsh terminalinde `tensorflow[and-cuda]` ifadesini tırnak içine almanız gerekmektedir.
 
+**bash:** 
 ```bash
 pip install tensorflow[and-cuda]
+```
+**zsh:**
+```zsh
+pip install "tensorflow[and-cuda]"
 ```
 
 3. Kurulumun başarılı olup olmadığını kontrol etmek için şu komutu çalıştırın:
