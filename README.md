@@ -40,9 +40,9 @@ conda activate tensorflow
 pip install --upgrade pip
 ```
 
-> **İpucu**: Zsh terminalinde "tensorflow[and-cuda]" komutunu tırnak içine almanız gerekmektedir.
-
 2. GPU destekli TensorFlow kurulumunu başlatmak için:
+
+> **İpucu**: Zsh terminalinde `tensorflow[and-cuda]` ifadesini tırnak içine almanız gerekmektedir.
 
 ```bash
 pip install tensorflow[and-cuda]
